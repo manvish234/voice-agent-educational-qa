@@ -1,0 +1,9 @@
+flask
+wfastcgi
+gTTS>=2.3
+google-genai>=0.1.0
+numpy>=1.23
+pandas>=2.0
+python-dotenv
+rapidfuzz>=2.3
+soundfile>=0.12.1
